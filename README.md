@@ -21,11 +21,9 @@
 
 ## 📫 How to Reach Me
 - Let's connect and chat! Open for any interesting discussions or opportunities.
-- 📧 Email: [Your Email Address]
 - 🔗 LinkedIn: [[LinkedIn Profile Link](https://www.linkedin.com/in/antoine-thuillier-b49a6529a/)]
 
 <!-- Optional: Include other social media links if you'd like -->
 
-## ⭐️ From Antoine
 <!-- This section can be used for dynamic GitHub activity or any personal message you want to add -->
 
