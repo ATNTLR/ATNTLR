@@ -14,8 +14,10 @@
 - Reach out to me for discussions on tech trends, programming, or any exciting collaboration ideas you have!
 
 ## 🛠️ Skills and Tools
-- Proficient in Python with a solid foundation in programming principles.
-- Exploring web development and other programming languages to expand my skill set.
+- Proficient in Python
+- Skilled with SQL
+- Experience with Javascript, C, and website development
+- Expanding my skillset 
 
 <!-- Replace [YourGitHubUsername] with your actual GitHub username -->
 
