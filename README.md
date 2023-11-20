@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <head>
     <title>Antoine's GitHub Profile</title>
     <style>
@@ -44,4 +43,3 @@
 
     </div>
 </body>
-</html>
