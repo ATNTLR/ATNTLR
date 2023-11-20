@@ -7,10 +7,10 @@
 
 ## 🌱 What I'm Focused On
 - Currently, I am deepening my understanding of advanced computer science concepts and exploring their application in business.
-- Actively working on personal projects that combine my interests in programming and business technology.
+- Actively working on personal projects that combine my interests in programming and health and sports science.
 
 ## 🤝 Let's Connect
-- I’m looking to collaborate on open-source projects and innovative tech ideas.
+- I’m looking to collaborate on open-source projects, innovative tech ideas and digitized health or sports projects.
 - Reach out to me for discussions on tech trends, programming, or any exciting collaboration ideas you have!
 
 ## 🛠️ Skills and Tools
